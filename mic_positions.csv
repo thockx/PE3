@@ -1,0 +1,6 @@
+# Relative microphone positions for SRP-PHAT (metres)
+x,y,description
+0.000,0.000,"myDAQ1 ai0: Mic 1"
+0.075,0.000,"myDAQ1 ai1: Mic 2"
+0.055,0.055,"myDAQ2 ai0: Mic 3"
+0.000,0.055,"myDAQ2 ai1: Mic 4"
